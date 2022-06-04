@@ -1,4 +1,4 @@
-## Olá, meu nome é Erick Sena. Tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Olá, meu nome é Erick Sena. Tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" >
 <div align="center">
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=ericksenagodinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksenagodinho&layout=compact&langs_count=7&theme=dracula"/>
