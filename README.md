@@ -3,20 +3,54 @@
   	<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ericksenagodinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   	<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksenagodinho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block" align="center">
-	<br>
-  	<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-	<img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-	<img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-	<img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-	<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  	<img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  	<img align="center" alt="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  	<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-	<img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  	<img align="center" alt="C Sharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<table align="center">
+  <tr>
+	<td align="center">
+      <h3>Backend</h3>
+      <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img alt="Spring" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+      <img alt="Laravel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+      <img alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <img alt="NodeJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    </td>
+	<td align="center">
+      <h3>Frontend</h3>
+      <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img alt="NextJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+      <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img alt="TailwindCSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+      <img alt="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    </td>
+    <td align="center">
+      <h3>Bancos de Dados</h3>
+      <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img alt="Redis" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Data Science</h3>
+      <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img alt="OpenCV" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+      <img alt="Scikit-learn" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
+      <img alt="Jupyter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+    </td>
+    <td align="center">
+      <h3>Desenvolvimento Desktop</h3>
+      <img alt="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+      <img alt="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img alt=".NET" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+    </td>
+	<td align="center">
+      <h3>DevOps</h3>
+      <img alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    </td>
+  </tr>
+</table>
 
 ##
 <div align="center"> 
