@@ -1,4 +1,4 @@
-## Olá, meu nome é Erick Sena. Tudo bem? []() <img src="https://raw.githubusercontent.com/ErickSenaGodinho/ErickSenaGodinho/main/hi.gif" width="30" />
+## Hello, I'm Erick Sena []() <img src="https://raw.githubusercontent.com/ErickSenaGodinho/ErickSenaGodinho/main/hi.gif" width="30" />
 <div align="center">
   	<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ericksenagodinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   	<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksenagodinho&layout=compact&langs_count=7&theme=dracula"/>
@@ -25,7 +25,7 @@
       <img alt="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     </td>
     <td align="center">
-      <h3>Bancos de Dados</h3>
+      <h3>Database</h3>
       <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <img alt="Redis" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
@@ -40,7 +40,7 @@
       <img alt="Jupyter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
     </td>
     <td align="center">
-      <h3>Desenvolvimento Desktop</h3>
+      <h3>Desktop Applications</h3>
       <img alt="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
       <img alt="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img alt=".NET" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
