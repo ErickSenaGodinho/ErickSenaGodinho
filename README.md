@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Erick Sena <img src="https://raw.githubusercontent.com/ErickSenaGodinho/ErickSenaGodinho/main/hi.gif" width="32" /></h1>
 <div align="center">
   	<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ericksenagodinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  	<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksenagodinho&layout=compact&langs_count=7&theme=dracula"/>
+  	<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksenagodinho&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 <table align="center">
   <tr>
