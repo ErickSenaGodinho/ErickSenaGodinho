@@ -4,7 +4,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="33%">
       <h3>Backend</h3>
       <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /><br>
@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /><br>
       <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="33%">
       <h3>Frontend</h3>
       <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /><br>
@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="33%">
       <h3>Database</h3>
       <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-%2300BFFF?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -31,21 +31,21 @@
 	</td>
   </tr>
   <tr>
-	<td align="center" valign="top">
+	<td align="center" valign="top" width="33%">
       <h3>Data Science</h3>
       <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /><br>
       <img src="https://img.shields.io/badge/OpenCV-%23FFFFFF?style=for-the-badge&logo=opencv&logoColor=blue" alt="OpenCV" />
       <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="33%">
       <h3>Desktop Applications</h3>
 	  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/.NET-%235C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="33%">
       <h3>DevOps</h3>
       <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </td>
