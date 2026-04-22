@@ -33,10 +33,13 @@
   <tr>
 	<td align="center" valign="top" width="33%">
       <h3>Data Science</h3>
-      <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /><br>
-      <img src="https://img.shields.io/badge/OpenCV-%23FFFFFF?style=for-the-badge&logo=opencv&logoColor=blue" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+      	<img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+		<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /><br>
+		<img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+		<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br>
+		<img src="https://img.shields.io/badge/Scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+		<img src="https://img.shields.io/badge/OpenCV-%23FFFFFF?style=for-the-badge&logo=opencv&logoColor=blue" alt="OpenCV" /><br>
+		<img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
     </td>
     <td align="center" valign="top" width="33%">
       <h3>Desktop Applications</h3>
